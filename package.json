@@ -1,0 +1,16 @@
+{
+  "name": "botdossddnet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
+}
